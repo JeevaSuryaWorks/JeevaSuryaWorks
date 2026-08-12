@@ -54,7 +54,7 @@
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,tensorflow,pandas,ts,js,react,tailwind,nodejs,express,nestjs,postgres,mongodb,firebase,aws,git,github&theme=dark&perline=8" alt="Jeevasurya's Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=py,tensorflow,pytorch,sklearn,ts,js,react,tailwind,nodejs,express,nestjs,postgres,mongodb,firebase,aws,git,github,vscode&theme=dark&perline=9" alt="Jeevasurya's Tech Stack" />
   </a>
 </div>
 
