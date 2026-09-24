@@ -1,62 +1,36 @@
 <div align="center">
-  <!-- Header Banner with Twinkling Animation -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,5,10,30&height=220&section=header&text=Hi%20%F0%9F%91%8B%20I'm%20Jeevasurya&fontSize=42&fontColor=ffffff&animation=twinkling" width="100%" alt="Jeevasurya Palanisamy Banner" />
+  <!-- Glowing Neon Tokyo-Night Header Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,100:bb9af7&height=220&section=header&text=Hi%20%F0%9F%91%8B%20I'm%20Jeevasurya&fontSize=42&fontColor=ffffff&animation=twinkling" width="100%" alt="Jeevasurya Palanisamy Banner" />
 
   <br/>
 
-  <!-- Dynamic Typing Animation SVG -->
+  <!-- Responsive Animated Typing SVG -->
   <a href="https://github.com/JeevaSuryaWorks">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38B2AC&center=true&vCenter=true&width=650&lines=AI+%26+Data+Science+Developer+%F0%9F%A7%A0;Building+Intelligent+Real-World+Solutions+%F0%9F%9A%80;Full-Stack+%26+Deep+Learning+Engineer+%E2%9A%A1;Crafting+Scalable+Cloud+%26+Mobile+Apps+%F0%9F%93%B1;Open-Source+Explorer+%26+Problem+Solver+%F0%9F%8C%9F" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=550&lines=AI+%26+Data+Science+Specialist+%F0%9F%A7%A0;Machine+Learning+Engineer+%F0%9F%9A%80;Full-Stack+Solutions+Architect+%E2%9A%A1;Cross-Platform+App+Developer+%F0%9F%93%B1;Open-Source+Contributor+%F0%9F%8C%9F" alt="Typing SVG" />
   </a>
+
+  <br/>
+
+  <!-- Social Badges with Exact User Links & Clean Alignment -->
+  <p align="center">
+    <a href="https://www.linkedin.com/in/jeevasuryapalanisamy/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="mailto:jeevasurya.work@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+    <a href="https://github.com/JeevaSuryaWorks" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+    <a href="https://www.kaggle.com/jsdatapro" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" /></a>
+    <a href="https://huggingface.co/JeevaSuryaWorks" target="_blank"><img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" /></a>
+  </p>
 </div>
 
-<br/>
-
-<!-- Social Badges & Contact -->
-<div align="center">
-  <a href="https://www.linkedin.com/in/jeevasuryapalanisamy" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  &nbsp;
-  <a href="mailto:jeevasuryaworks@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/JeevaSuryaWorks" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  &nbsp;
-  <a href="https://huggingface.co/JeevaSuryaWorks" target="_blank">
-    <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
-  </a>
-  &nbsp;
-  <a href="https://www.kaggle.com" target="_blank">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
-  </a>
-</div>
-
-<br/>
 <hr/>
 
-<!-- About Me Section with Side-by-Side Neon Animation -->
-<table align="center" width="100%">
-  <tr>
-    <td width="55%" valign="top">
-      <h3>🚀 About Me</h3>
-      <ul>
-        <li>🔭 <b>Current Focus</b>: Architecting intelligent AI/ML pipelines and modern full-stack web/mobile applications</li>
-        <li>🧠 <b>Deep Dive</b>: Large Language Models (LLMs), Computer Vision, Neural Networks & Cloud Microservices</li>
-        <li>💡 <b>Philosophy</b>: Transforming complex data into robust, automated real-world solutions</li>
-        <li>👯 <b>Collaboration</b>: Always open to innovative AI/ML research projects, open-source initiatives & hackathons</li>
-        <li>⚡ <b>Fun Fact</b>: Equal parts neural network enthusiast and clean code perfectionist</li>
-        <li>📫 <b>Let's Connect</b>: <a href="mailto:jeevasuryaworks@gmail.com">jeevasuryaworks@gmail.com</a></li>
-      </ul>
-    </td>
-    <td width="45%" align="center" valign="middle">
-      <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" style="border-radius: 12px;" alt="Coding Animation" />
-    </td>
-  </tr>
-</table>
+### 🚀 About Me
+
+- 🔭 **Current Focus**: Architecting scalable AI/ML pipelines, deep learning models, and modern full-stack web/mobile applications.
+- 🧠 **Deep Dive**: Large Language Models (LLMs), Computer Vision, Neural Networks & Cloud Microservices.
+- 💡 **Philosophy**: Transforming raw datasets into robust, automated, real-world solutions.
+- 👯 **Open For Collaborations**: AI/ML research projects, open-source tools & high-impact hackathons.
+- ⚡ **Fun Fact**: Equal parts neural network enthusiast and clean code perfectionist.
+- 📫 **Contact Me Directly**: [jeevasurya.work@gmail.com](mailto:jeevasurya.work@gmail.com) | [LinkedIn](https://www.linkedin.com/in/jeevasuryapalanisamy/)
 
 <br/>
 
@@ -111,8 +85,8 @@
 <br/>
 <hr/>
 
-<!-- Streak & Real-time Analytics -->
-<h2 align="center">⚡ Contribution Streak & Dev Activity</h2>
+<!-- Streak & Real-time Dev Activity -->
+<h2 align="center">⚡ Contribution Streak & Dev Humor</h2>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=JeevaSuryaWorks&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak Stats" width="49%" />
@@ -189,7 +163,7 @@
 
 <!-- Footer with Waving Animation and Profile View Counter -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,5,10,30&height=100&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,100:bb9af7&height=100&section=footer" width="100%"/>
 </div>
 
 <div align="center">
